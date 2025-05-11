@@ -1,7 +1,5 @@
 # AdvancedNetScan
-# DAL SCANNER
-
-Dal Scanner is a powerful network reconnaissance tool that automates various Nmap scanning tasks. This tool helps security professionals and enthusiasts gather information about networks, identify potential vulnerabilities, and save results for later analysis in an organized format.
+AdvancedNetScan is a powerful network reconnaissance tool that automates various Nmap scanning tasks. This tool helps security professionals and enthusiasts gather information about networks, identify potential vulnerabilities, and save results for later analysis in an organized format.
 
 ![Network Scanning](https://raw.githubusercontent.com/your-username/nmap-bash-scanner/main/screenshots/scan-demo.png)
 
@@ -34,8 +32,8 @@ Dal Scanner is a powerful network reconnaissance tool that automates various Nma
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/dal-scanner.git
-cd dal-scanner
+git clone https://github.com/HuzaifaDal/AdvancedNetScan.git
+cd AdvancedNetScan
 ```
 
 2. Make the script executable:
@@ -69,7 +67,7 @@ sudo yum install nmap
 
 ```
 =================================================
-                 DAL SCANNER                    
+                 AdvancedNetScan                    
         Advanced Network Reconnaissance         
 =================================================
 Scanning host: scanme.nmap.org
@@ -110,7 +108,7 @@ To view full results: cat results/scanme.nmap.org_20230515_123456_scan.txt
 ## Project Structure
 
 ```
-dal-scanner/
+AdvancedNetScan/
 ├── README.md
 ├── scan.sh
 ├── advanced_scan.sh
